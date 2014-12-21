@@ -75,7 +75,7 @@ Those who spend the time to get informed are currently punished by the votes of 
 
 Maintaining and developing political awareness need not be an exclusory expense.  Everyone can afford to spend the time to learn about the issues if there is a reward for casting a vote.
 
-In addition, people generally accept that no one may judge your reasons for voting as you do.  It you want to vote entirely based upon the color of a candidates skin then that is your right.  If you are entirely uneducated and know nothing about the candidates or their policies it is still your right to vote based upon a coin toss.   Why then do we presume that money is an unacceptable motivator?  
+In addition, people generally accept that no one may judge your reasons for voting as you do.  If you want to vote entirely based upon the color of a candidates skin then that is your right.  If you are entirely uneducated and know nothing about the candidates or their policies it is still your right to vote based upon a coin toss.   Why then do we presume that money is an unacceptable motivator?  
 
 In reality almost every election is about buying votes.  Politicians make promises to redistribute tax payer money in order to win votes.   Most people who vote for a politician believe the promise and thus a politician buys a vote with an IOU that is easily defaulted on without consequence even though the vote is irreversible.   A politician that pays you up front is at least honest and you are certain to get some benefit.   
 
