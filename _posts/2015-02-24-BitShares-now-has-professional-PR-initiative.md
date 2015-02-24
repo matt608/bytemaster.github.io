@@ -8,9 +8,9 @@ Bitshares has come a long way since its debut. We have many achievements on the 
  
 ## The issues that we’re facing
 
-In every journey, we would learn more about our strength and weakness along the way. We should embrace our strength and recognize our weakness. Either we evolve faster than the others to further the cause and avoid mistakes, or we would be defeated by those who could. It’s as simple as that. 
+In every journey, we learn more about our strength and weakness along the way. We should embrace our strength and recognize our weakness. Either we evolve faster than the others to further the cause and avoid mistakes, or we would be defeated by those who could. It’s as simple as that. 
  
-Bitshares platform and market pegged assets like BitUSD are our greatest achievement so far, it’s working. And it could have the potential to change the world as we know.  The accuracy of the peg matters, but the issue with low market depth and low liquidity have been hindering the progress of mass adoption. If we can’t improve the situation, it would be hard to convince big businesses and merchants to adopt BitAssets. Without the mass adoption of BitAssets, Bitshares can not go any further in the long run. 
+Bitshares platform and market pegged assets like BitUSD are our greatest achievement so far, it’s working. And it could have the potential to change the world as we know it.  The accuracy of the peg matters, but the issue with low market depth and low liquidity have been hindering the progress of mass adoption. If we can’t improve the situation, it would be hard to convince big businesses and merchants to adopt BitAssets. Without the mass adoption of BitAssets, Bitshares can not go any further in the long run. 
  
 ## We need better PR to further our cause
 
@@ -38,7 +38,7 @@ The general principle of this PR appointment is to empower the Spokesman to excl
  
 6. The Core Developers (including any member thereof individually) should not answer any question regarding Bitshares’ development or prospect or heed any request to predict anything about Bitshares or give forward-looking comments unless the relevant questions or requests are directed by the Spokesman to the Core Developers and the answers of the Core Developers are approved by and communicated through the Spokesman.
  
-7. Always keep in mind that anything a Core Developer may say, no matter in the capacity of a Core Developer or a community member, will have potential impact on the market. It’s hard, if not impossible, to cure the damage that could caused. 
+7. Always keep in mind that anything a Core Developer may say, no matter in the capacity of a Core Developer or a community member, will have potential impact on the market. It’s hard, if not impossible, to cure the damage that could be caused. 
  
 ## Conclusion
 
